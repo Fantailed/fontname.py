@@ -1,4 +1,11 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S uv --quiet run --script
+
+# /// script
+# requires-python = ">3.6"
+# dependencies = [
+#     "fonttools"
+# ]
+# ///
 
 # ==========================================================================
 # fontname.py
